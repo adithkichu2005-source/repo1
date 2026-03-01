@@ -1,22 +1,140 @@
 Sentence,CognitiveBias
-"I never do anything right.",overgeneralization
-"If I fail this exam, my life is over.",catastrophizing
-"You either love it or hate it.",black_and_white_thinking
-"They think I'm such a failure.",mind_reading
-"I feel upset, so it must be a bad situation.",emotional_reasoning
-"I'm just going to embarrass myself again.",overgeneralization
-"Nothing ever goes my way.",catastrophizing
-"It's either perfect or it's terrible.",black_and_white_thinking
-"Everyone is judging me right now.",mind_reading
-"I feel anxious, so something is definitely wrong.",emotional_reasoning
-"I always disappoint my friends.",overgeneralization
-"If I make one mistake, I'll ruin everything.",catastrophizing
-"You either agree with me or you're wrong.",black_and_white_thinking
-"People are talking about how incompetent I am.",mind_reading
-"I'm unhappy, so I must be failing.",emotional_reasoning
-"I can't do anything right.",overgeneralization
-"If this doesn't work, I'll be a complete loser.",catastrophizing
-"There's no in-between, it's good or bad.",black_and_white_thinking
-"They think I'm not capable of anything.",mind_reading
-"If I don't feel good, things are definitely bad.",emotional_reasoning
-... (additional entries to reach 300 sentences)
+"I failed one test, so I'll fail all tests in my life.",overgeneralization
+"If I don't get this job, it'll be the end of the world.",catastrophizing
+"You didn’t call me back; you must hate me.",mind_reading
+"I just can’t do anything right!",black_and_white_thinking
+"If things don’t go exactly the way I want, I’ll be devastated.",catastrophizing
+"Everyone must be talking about how I messed up.",mind_reading
+"It’s either my way or the highway.",black_and_white_thinking
+"If I don’t get perfect results, I am a failure.",overgeneralization
+"I always mess things up!",overgeneralization
+"Nothing will ever go right for me.",overgeneralization
+"They didn’t smile at me; they must not like me.",mind_reading
+"If I don’t enjoy every moment, my life is terrible.",emotional_reasoning
+"After one bad experience, I will never try again.",overgeneralization
+"I can’t handle this pressure; it’s too much.",catastrophizing
+"You didn’t say hi to me; you probably think I’m unworthy.",mind_reading
+"It’s pointless to even try.",black_and_white_thinking
+"I’m such a loser for not getting that promotion.",emotional_reasoning
+"If I’m not happy all the time, I’m failing at life.",emotional_reasoning
+"Everyone around me is disappointed in me.",mind_reading
+"One minor setback means I’ll never succeed.",overgeneralization
+"If this plan fails, it will be a disaster.",catastrophizing
+"You must think I am foolish for asking that question.",mind_reading
+"I either get things right or I am a total failure.",black_and_white_thinking
+"I can never get things done on time; I’m such a slow worker!",overgeneralization
+"If I don't have a perfect relationship, I should be alone.",black_and_white_thinking
+"If this doesn’t go perfectly, then I’ve ruined everything.",catastrophizing
+"I can’t be happy until I achieve my goals.",emotional_reasoning
+"You must think I’m lazy because I didn’t finish my project.",mind_reading
+"I can’t make mistakes, or I’ll be judged.",emotional_reasoning
+"There’s no point in even trying since I’ll probably fail.",overgeneralization
+"This went wrong; I can’t ever trust anyone again.",overgeneralization
+"Everyone is going to think I’m a fool for failing.",mind_reading
+"If I don’t feel happy now, I’ll never be happy again.",emotional_reasoning
+"I always pick the wrong choice.",overgeneralization
+"I’ll always struggle with this.",overgeneralization
+"People are always judging me.",mind_reading
+"If I’m not the best, I’m nothing.",black_and_white_thinking
+"I always mess everything up.",overgeneralization
+"If my day doesn’t go perfectly, my whole life is a mess.",catastrophizing
+"Everyone around me is disappointed in me.",mind_reading
+"If I don’t feel good about this now, it’s a failure.",emotional_reasoning
+"This is going to be a catastrophe if it doesn’t work out.",catastrophizing
+"You must think I’m failing because I need help.",mind_reading
+"If I can’t do it all, I’m useless.",black_and_white_thinking
+"When I mess up, everyone must see it as a huge failure.",catastrophizing
+"I can’t possibly get through this.",catastrophizing
+"You are judging me for my mistakes; otherwise, you would help me.",mind_reading
+"If I don’t achieve my dreams, I’ll be a total failure.",black_and_white_thinking
+"I always disappoint those I care about.",overgeneralization
+"If I don’t feel joy all the time, I must be unhappy.",emotional_reasoning
+"People think I’m incompetent because I asked for help.",mind_reading
+"My life is awful because this happened to me.",catastrophizing
+"I can’t ever be perfect; therefore, I’m a failure.",black_and_white_thinking
+"Every little problem is the end of the world for me.",catastrophizing
+"You think I’m boring; you never want to talk to me.",mind_reading
+"If I can’t do this perfectly, I should stop trying.",black_and_white_thinking
+"I’m always going to be alone because of my mistakes.",overgeneralization
+"I’ll never be good enough for anyone.",overgeneralization
+"If it doesn’t go my way, I am devastated.",emotional_reasoning
+"Everyone thinks I can’t succeed at anything.",mind_reading
+"This is a disaster; nothing will ever be fine again.",catastrophizing
+"I have to be perfect; otherwise, I am nothing.",black_and_white_thinking
+"I am always the one messing everything up.",overgeneralization
+"If I don’t feel great every day, I am failing in life.",emotional_reasoning
+"I can’t handle this pressure; it’s too overwhelming.",catastrophizing
+"You must think I’m terrible because I didn’t follow through on my last commitment.",mind_reading
+"It’s either a perfect success or a complete failure.",black_and_white_thinking
+"I failed this time, I’ll always fail.",overgeneralization
+"If I experience a negative emotion, it means I am unhappy.",emotional_reasoning
+"Everyone must think poorly of me after that mistake.",mind_reading
+"If I don’t succeed in every way, I’ll never win in life.",black_and_white_thinking
+"This happened, so my life is ruined.",catastrophizing
+"Everyone is disappointed in me; I just know it.",mind_reading
+"I can’t make mistakes in my life; I’m not allowed.",emotional_reasoning
+"I will forever struggle because of this setback.",overgeneralization
+"If I can’t find a solution now, it’s hopeless.",catastrophizing
+"You must think I’m incompetent because I made this error.",mind_reading
+"I always mess up everything I do.",overgeneralization
+"If I don’t feel ecstatic, I must be unhappy.",emotional_reasoning
+"This problem is going to ruin everything for me.",catastrophizing
+"Everyone's judging me for this mistake.",mind_reading
+"If I can’t be great, I shouldn’t even try.",black_and_white_thinking
+"I can never get things right.",overgeneralization
+"Everything is going to go wrong if I don’t fix this now.",catastrophizing
+"If I can’t succeed at everything, I’m a failure.",black_and_white_thinking
+"I’ll never make it in life because of this.",overgeneralization
+"No one thinks I have potential because of my past.",mind_reading
+"I will never feel satisfaction in anything.",overgeneralization
+"I always disappoint others and myself.",overgeneralization
+"Everyone is thinking I’m a failure because I didn’t get it right this time.",mind_reading
+"If I can’t be perfect, I’m worthless.",black_and_white_thinking
+"This mistake means I will always struggle.",overgeneralization
+"If I don’t love every moment, my life is worthless.",emotional_reasoning
+"If I can’t succeed now, I’ll never succeed.",overgeneralization
+"Everyone must think this failure defines me.",mind_reading
+"If something goes wrong, it means I will never recover.",catastrophizing
+"If I can’t do it all, I shouldn’t even bother trying.",black_and_white_thinking
+"If I don’t experience happiness constantly, it’s a sign of failure.",emotional_reasoning
+"All my efforts are never enough.",overgeneralization
+"If my life isn’t perfect now, it’s worthless.",catastrophizing
+"You must think I’m foolish because I didn’t get it correct.",mind_reading
+"If I can’t have total control, I’m a failure.",black_and_white_thinking
+"I never make the right choice.",overgeneralization
+"I always have to feel good to be successful.",emotional_reasoning
+"Everyone thinks I’m making a fool of myself.",mind_reading
+"If I don’t achieve every little goal, I’m a disappointment.",black_and_white_thinking
+"If I can’t succeed at everything I do, I should give up.",black_and_white_thinking
+"I can’t ever be happy unless everything is perfect.",emotional_reasoning
+"If this goes wrong, it’s going to ruin my reputation.",catastrophizing
+"You probably think I’m incompetent based on my last mistake.",mind_reading
+"If I can’t achieve my goals, I’m worthless.",black_and_white_thinking
+"If this doesn’t work, I will never try again.",overgeneralization
+"If I don’t receive praise, I must be doing badly.",emotional_reasoning
+"Everyone thinks I wasn’t meant to succeed.",mind_reading
+"If my life has challenges, it’s terrible.",catastrophizing
+"If I can’t be perfect, I’m a failure.",black_and_white_thinking
+"I will never be happy because I don’t have everything.",overgeneralization
+"If something goes wrong, it means it’s a disaster.",catastrophizing
+"I’m always letting myself down.",overgeneralization
+"I will never meet expectations. My failure is set in stone.",black_and_white_thinking
+"If I can’t think ahead perfectly, I am doomed.",black_and_white_thinking
+"Everyone is looking at me and judging me.",mind_reading
+"If I can’t be the best, I might as well not try.",black_and_white_thinking
+"Everything I do is a disaster.",overgeneralization
+"If my day isn't perfect, it’s worthless.",catastrophizing
+"You probably think poorly of me because I couldn’t complete my task.",mind_reading
+"If I don’t always feel excited and optimistic, I’m a failure.",emotional_reasoning
+"I’m going to fail at everything I do because of this.",overgeneralization
+"If I can’t trust myself always, then I'm useless.",black_and_white_thinking
+"Everyone is going to see that I failed.",mind_reading
+"I might not get through this without help, so I should give up.",overgeneralization
+"If my actions don’t lead to positivity, I’m a failure.",black_and_white_thinking
+"If something doesn’t work immediately, I’m going to fail.",catastrophizing
+"Nobody thinks I’m competent enough to be here.",mind_reading
+"I will always be judged for my failures.",overgeneralization
+"If it doesn’t feel good, it’s not worth doing.",emotional_reasoning
+"If I make a mistake, I might as well quit.",black_and_white_thinking
+"People must believe I am incapable of success.",mind_reading
+"I will never achieve anything since I’ve failed once.",overgeneralization
