@@ -19,4 +19,283 @@ Sentence,CognitiveBias
 "There's no in-between, it's good or bad.",black_and_white_thinking
 "They think I'm not capable of anything.",mind_reading
 "If I don't feel good, things are definitely bad.",emotional_reasoning
-... (additional entries to reach 300 sentences)
+"I always mess things up.",overgeneralization
+"If I lose this job, everything in my life will fall apart.",catastrophizing
+"Either you're with me or against me.",black_and_white_thinking
+"She must think I'm totally incompetent.",mind_reading
+"I feel like a failure, so I must be one.",emotional_reasoning
+"I never succeed at anything I try.",overgeneralization
+"This small problem is going to spiral into a complete disaster.",catastrophizing
+"If it's not a total success, it's a complete failure.",black_and_white_thinking
+"He thinks I'm boring and has no interest in talking to me.",mind_reading
+"I feel worthless, so I clearly have no value.",emotional_reasoning
+"I'm always the one who fails.",overgeneralization
+"If I don't get this right, my whole career is over.",catastrophizing
+"There's only right and wrong, nothing else.",black_and_white_thinking
+"My coworkers think I'm incompetent.",mind_reading
+"I feel scared, so this situation must be dangerous.",emotional_reasoning
+"Nothing I do ever turns out well.",overgeneralization
+"One bad review will completely destroy my reputation.",catastrophizing
+"Things are either wonderful or absolutely terrible.",black_and_white_thinking
+"They all think I'm a burden.",mind_reading
+"I feel guilty, so I must have done something terribly wrong.",emotional_reasoning
+"I'm always letting people down.",overgeneralization
+"If I get sick, it will ruin my entire future.",catastrophizing
+"You're either for me or you're against me.",black_and_white_thinking
+"My boss thinks I'm a waste of time.",mind_reading
+"I feel depressed, so my life must be a mess.",emotional_reasoning
+"I never get anything right the first time.",overgeneralization
+"If I don't perform perfectly, everything I've built will crumble.",catastrophizing
+"It's all or nothing with you.",black_and_white_thinking
+"Everyone at the party thinks I'm awkward.",mind_reading
+"I feel nervous, so something bad is definitely about to happen.",emotional_reasoning
+"I always ruin special occasions.",overgeneralization
+"One mistake at work will end my career.",catastrophizing
+"There's no middle ground; it's black or white.",black_and_white_thinking
+"My friends think I'm not worth their time.",mind_reading
+"I feel overwhelmed, so I must be incapable.",emotional_reasoning
+"I'm always the worst person in the room.",overgeneralization
+"If this relationship ends, I'll never be happy again.",catastrophizing
+"Either you love me completely or you hate me.",black_and_white_thinking
+"She's probably telling everyone about my embarrassing moment.",mind_reading
+"I feel empty, so my life must be meaningless.",emotional_reasoning
+"I never do well in social situations.",overgeneralization
+"If I can't finish this project on time, I'll lose everything.",catastrophizing
+"Nothing is ever just okay; it's either great or terrible.",black_and_white_thinking
+"He's judging every word I say.",mind_reading
+"I feel hopeless, so there must be no way forward.",emotional_reasoning
+"I'm always the one causing problems.",overgeneralization
+"If I fail this test, my entire future is ruined.",catastrophizing
+"People are either trustworthy or completely untrustworthy.",black_and_white_thinking
+"They all think I'm a joke.",mind_reading
+"I feel angry, so someone must have wronged me.",emotional_reasoning
+"I never handle stress well.",overgeneralization
+"If this venture fails, I'll be a failure for life.",catastrophizing
+"It has to be perfect or it's worthless.",black_and_white_thinking
+"My family thinks I'm a disappointment.",mind_reading
+"I feel sad, so things must be going terribly.",emotional_reasoning
+"I always make the wrong decisions.",overgeneralization
+"If things go wrong today, it'll ruin my whole week.",catastrophizing
+"You either succeed or you fail, there's nothing else.",black_and_white_thinking
+"My neighbor thinks I'm a terrible parent.",mind_reading
+"I feel uncomfortable, so this must be a bad place.",emotional_reasoning
+"I'm always the last one to understand anything.",overgeneralization
+"If I don't get that promotion, my career is finished.",catastrophizing
+"Either you're perfect or you're worthless.",black_and_white_thinking
+"Everyone on the team thinks I'm the weakest link.",mind_reading
+"I feel confused, so I must be incompetent.",emotional_reasoning
+"I never manage to keep friendships.",overgeneralization
+"One bad meeting will ruin my standing in the company.",catastrophizing
+"There's only success and failure, nothing in between.",black_and_white_thinking
+"They all think I don't belong here.",mind_reading
+"I feel restless, so something must be wrong with me.",emotional_reasoning
+"I always say the wrong thing.",overgeneralization
+"If I don't fix this now, everything will unravel.",catastrophizing
+"Something is either completely right or completely wrong.",black_and_white_thinking
+"He thinks I'm making excuses.",mind_reading
+"I feel dread, so disaster must be coming.",emotional_reasoning
+"I'm always the one who gets blamed.",overgeneralization
+"If I can't keep up, I'll be left behind forever.",catastrophizing
+"You're either a winner or a loser.",black_and_white_thinking
+"She thinks I'm not good enough for this job.",mind_reading
+"I feel tense, so I must be in trouble.",emotional_reasoning
+"I never live up to expectations.",overgeneralization
+"If I lose this opportunity, I'll never get another one.",catastrophizing
+"It's either totally fine or completely broken.",black_and_white_thinking
+"They think I'm selfish and inconsiderate.",mind_reading
+"I feel embarrassed, so everyone must be laughing at me.",emotional_reasoning
+"I always fall short of what people need from me.",overgeneralization
+"If I make a bad impression, it will follow me forever.",catastrophizing
+"You either care or you don't, there's no in-between.",black_and_white_thinking
+"My classmates think I'm the dumbest one in the group.",mind_reading
+"I feel unloved, so nobody must care about me.",emotional_reasoning
+"I'm always the cause of everyone's problems.",overgeneralization
+"If I can't do this perfectly, I shouldn't even try.",catastrophizing
+"Things are always completely good or completely bad.",black_and_white_thinking
+"She's definitely thinking negative things about me.",mind_reading
+"I feel irritated, so everyone around me must be doing something wrong.",emotional_reasoning
+"I never manage to meet any of my goals.",overgeneralization
+"If I take a risk and fail, my life is done.",catastrophizing
+"Either you're smart or you're stupid, there's nothing else.",black_and_white_thinking
+"Everyone thinks I'm the odd one out.",mind_reading
+"I feel lonely, so nobody must want to be around me.",emotional_reasoning
+"I always end up ruining good things.",overgeneralization
+"If I get this wrong, it will be a catastrophe.",catastrophizing
+"It's either all good or all bad, nothing is just okay.",black_and_white_thinking
+"He thinks I'm not serious about anything.",mind_reading
+"I feel tired, so I must be falling apart.",emotional_reasoning
+"I never achieve what I set out to do.",overgeneralization
+"One negative comment will destroy my confidence forever.",catastrophizing
+"You're either completely honest or you're a liar.",black_and_white_thinking
+"They think I'm always complaining.",mind_reading
+"I feel numb, so something must be deeply wrong with me.",emotional_reasoning
+"I'm always the one who disappoints everyone.",overgeneralization
+"If I lose this friendship, I'll never have any real friends.",catastrophizing
+"There's only right and wrong, no gray areas.",black_and_white_thinking
+"My partner thinks I'm not good enough.",mind_reading
+"I feel panicked, so this situation must be catastrophic.",emotional_reasoning
+"I never do anything that makes people proud.",overgeneralization
+"If this goes wrong, there's no coming back.",catastrophizing
+"You're either strong or you're weak.",black_and_white_thinking
+"Everyone in the room noticed my mistake.",mind_reading
+"I feel rejected, so I must not be likable.",emotional_reasoning
+"I always end up alone in the end.",overgeneralization
+"If I fail once, I'll always be a failure.",catastrophizing
+"It's totally right or totally wrong, nothing in between.",black_and_white_thinking
+"She thinks I'm incapable of handling this.",mind_reading
+"I feel ashamed, so I must have done something awful.",emotional_reasoning
+"I'm always the one nobody wants around.",overgeneralization
+"If I lose this argument, my relationship is over.",catastrophizing
+"People are either completely good or completely evil.",black_and_white_thinking
+"He's probably thinking how much better life is without me.",mind_reading
+"I feel discouraged, so I must be heading for failure.",emotional_reasoning
+"I never manage to be consistent.",overgeneralization
+"If I get this diagnosis, my life is over.",catastrophizing
+"It's either a complete success or a complete waste of time.",black_and_white_thinking
+"My friends are all secretly annoyed with me.",mind_reading
+"I feel uneasy, so something bad must be coming.",emotional_reasoning
+"I always give up at the worst moment.",overgeneralization
+"One bad day will turn into a terrible week, month, and year.",catastrophizing
+"You either do it perfectly or you fail.",black_and_white_thinking
+"They all think I'm dramatic.",mind_reading
+"I feel insecure, so I must be inadequate.",emotional_reasoning
+"I'm always the one holding everyone back.",overgeneralization
+"If I can't handle this, everything will fall to pieces.",catastrophizing
+"Things are either completely positive or completely negative.",black_and_white_thinking
+"She thinks I always overreact.",mind_reading
+"I feel sad, so this day is ruined.",emotional_reasoning
+"I never learn from my mistakes.",overgeneralization
+"If this plan doesn't work, I'll never recover.",catastrophizing
+"You're either completely committed or you don't care at all.",black_and_white_thinking
+"He's judging my appearance.",mind_reading
+"I feel afraid, so there must be something to fear.",emotional_reasoning
+"I always forget the important things.",overgeneralization
+"If I can't stop this now, it will become unmanageable.",catastrophizing
+"Either it works perfectly or it's a disaster.",black_and_white_thinking
+"My coworker thinks I'm lazy.",mind_reading
+"I feel like a fraud, so I must be one.",emotional_reasoning
+"I'm always the last one to know what's going on.",overgeneralization
+"One small setback will spiral into a complete breakdown.",catastrophizing
+"You either win or you're a loser.",black_and_white_thinking
+"They're definitely talking about how much I've let them down.",mind_reading
+"I feel hopeless, so there's no point in trying.",emotional_reasoning
+"I never handle criticism gracefully.",overgeneralization
+"If I fail to keep this promise, no one will ever trust me.",catastrophizing
+"It's either all good or all wrong.",black_and_white_thinking
+"My professor thinks I don't take this seriously.",mind_reading
+"I feel exhausted, so I must be failing at everything.",emotional_reasoning
+"I always end up making things worse.",overgeneralization
+"If I don't solve this today, it'll become a crisis.",catastrophizing
+"Things are either absolutely wonderful or downright horrible.",black_and_white_thinking
+"He thinks I can't be trusted.",mind_reading
+"I feel overwhelmed, so I must be a failure.",emotional_reasoning
+"I'm always the weakest person in any group.",overgeneralization
+"If this relationship fails, I'll be alone forever.",catastrophizing
+"You're either completely right or completely wrong.",black_and_white_thinking
+"She thinks I'm too sensitive.",mind_reading
+"I feel empty, so I must have nothing to offer.",emotional_reasoning
+"I never get things right on the first try.",overgeneralization
+"If I lose control for even a second, everything will fall apart.",catastrophizing
+"It's totally perfect or it's totally worthless.",black_and_white_thinking
+"Everyone thinks I'm not smart enough.",mind_reading
+"I feel distressed, so things must be going very badly.",emotional_reasoning
+"I always forget what I'm supposed to do.",overgeneralization
+"One failure means I'll always fail.",catastrophizing
+"Either you support me completely or you don't support me at all.",black_and_white_thinking
+"My siblings think I'm the family disappointment.",mind_reading
+"I feel overwhelmed by dread, so something terrible must be near.",emotional_reasoning
+"I'm always the one who gets everything wrong.",overgeneralization
+"If I don't succeed this time, I never will.",catastrophizing
+"Things are either a total triumph or a total disaster.",black_and_white_thinking
+"She's judging me for everything I say.",mind_reading
+"I feel nervous, so I must be about to fail.",emotional_reasoning
+"I never manage to stay focused.",overgeneralization
+"If I make this mistake, it will follow me for the rest of my life.",catastrophizing
+"You're either helpful or you're a hindrance.",black_and_white_thinking
+"Everyone thinks I'm wasting my potential.",mind_reading
+"I feel bad about myself, so I must be a bad person.",emotional_reasoning
+"I always let myself down.",overgeneralization
+"If this doesn't go perfectly, I'll spiral into depression.",catastrophizing
+"It's either flawless or it's garbage.",black_and_white_thinking
+"He thinks I'm a bother.",mind_reading
+"I feel confused, so I must be stupid.",emotional_reasoning
+"I'm always the cause of unnecessary drama.",overgeneralization
+"If I stumble now, I'll never get back up.",catastrophizing
+"People are either completely loyal or completely disloyal.",black_and_white_thinking
+"My friends think I'm too needy.",mind_reading
+"I feel down, so this must be a terrible situation.",emotional_reasoning
+"I never do well under pressure.",overgeneralization
+"If I can't fix this quickly, it will become impossible to handle.",catastrophizing
+"Either you're kind or you're cruel, there's no middle ground.",black_and_white_thinking
+"They think I'm ungrateful.",mind_reading
+"I feel bitter, so someone must have betrayed me.",emotional_reasoning
+"I always fail when it matters most.",overgeneralization
+"One moment of weakness and everything will collapse.",catastrophizing
+"It's either entirely good or entirely bad.",black_and_white_thinking
+"She thinks I'm always negative.",mind_reading
+"I feel regretful, so I must have made a terrible choice.",emotional_reasoning
+"I'm always the slowest to catch on.",overgeneralization
+"If I lose this argument, no one will respect me again.",catastrophizing
+"You either care deeply or you don't care at all.",black_and_white_thinking
+"My teacher thinks I'm not trying.",mind_reading
+"I feel anxious about the future, so it must be bleak.",emotional_reasoning
+"I never stick with anything long enough.",overgeneralization
+"If I get rejected, my life will never be the same.",catastrophizing
+"Things are either completely meaningful or entirely pointless.",black_and_white_thinking
+"He thinks I'm weak.",mind_reading
+"I feel panic rising, so this must be an emergency.",emotional_reasoning
+"I always struggle more than everyone else.",overgeneralization
+"If I make this one mistake, it will define me forever.",catastrophizing
+"It's either total acceptance or total rejection.",black_and_white_thinking
+"Everyone thinks I'm too emotional.",mind_reading
+"I feel low energy, so I must be depressed.",emotional_reasoning
+"I'm always the one who gets overlooked.",overgeneralization
+"If I can't maintain this, everything will unravel.",catastrophizing
+"You're either fully committed or you're not committed at all.",black_and_white_thinking
+"She thinks I'm unreliable.",mind_reading
+"I feel resentful, so I must have been treated unfairly.",emotional_reasoning
+"I never manage to follow through on anything.",overgeneralization
+"If this turns out badly, it will be the worst thing that's ever happened.",catastrophizing
+"Either it's completely worth it or it's a waste.",black_and_white_thinking
+"My mentor thinks I'm not cut out for this.",mind_reading
+"I feel defeated, so I must be a loser.",emotional_reasoning
+"I always ruin my chances at happiness.",overgeneralization
+"If I fail at this, I'll fail at everything.",catastrophizing
+"There's only right or wrong, no exceptions.",black_and_white_thinking
+"They think I'm not reliable enough.",mind_reading
+"I feel like giving up, so I must have no hope.",emotional_reasoning
+"I'm always getting in my own way.",overgeneralization
+"One wrong move and everything I've built will be destroyed.",catastrophizing
+"You're either a success or a failure.",black_and_white_thinking
+"He thinks I'm not worth his time.",mind_reading
+"I feel frustrated, so things must be going wrong.",emotional_reasoning
+"I never seem to do the right thing.",overgeneralization
+"If I miss this chance, I'll regret it for the rest of my life.",catastrophizing
+"It's either completely satisfying or completely unsatisfying.",black_and_white_thinking
+"Everyone thinks I'm not putting in enough effort.",mind_reading
+"I feel upset with myself, so I must have made a terrible mistake.",emotional_reasoning
+"I'm always the one who messes up the simplest things.",overgeneralization
+"If I don't get this right, the consequences will be catastrophic.",catastrophizing
+"It's either completely reliable or completely worthless.",black_and_white_thinking
+"He thinks I'm boring and not worth talking to.",mind_reading
+"I feel hopeless, so there must truly be no way out.",emotional_reasoning
+"I never manage to impress anyone.",overgeneralization
+"If I can't control this situation, everything will spiral out of control.",catastrophizing
+"You're either completely right or you're a fool.",black_and_white_thinking
+"They all think I'm incompetent behind my back.",mind_reading
+"I feel scared, so I must be in real danger.",emotional_reasoning
+"I always fail to meet my own standards.",overgeneralization
+"One missed deadline and my whole reputation is destroyed.",catastrophizing
+"Things are either perfectly in order or total chaos.",black_and_white_thinking
+"My manager thinks I'm not leadership material.",mind_reading
+"I feel disappointed in myself, so I must be worthless.",emotional_reasoning
+"I'm always the person who lets the team down.",overgeneralization
+"If I can't get this under control, everything will collapse.",catastrophizing
+"Either you're completely honest or you're a complete liar.",black_and_white_thinking
+"She thinks I'm not serious or dedicated enough.",mind_reading
+"I feel ashamed, so I must have done something unforgivable.",emotional_reasoning
+"I never seem to connect with people the way others do.",overgeneralization
+"If I lose this chance, I'll never find another opportunity like it.",catastrophizing
+"It's either a complete victory or a devastating loss.",black_and_white_thinking
+"Everyone probably thinks I don't deserve to be here.",mind_reading
+"I feel miserable, so my life must be going terribly wrong.",emotional_reasoning
