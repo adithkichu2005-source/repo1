@@ -1,0 +1,22 @@
+Sentence,CognitiveBias
+"I never do anything right.",overgeneralization
+"If I fail this exam, my life is over.",catastrophizing
+"You either love it or hate it.",black_and_white_thinking
+"They think I'm such a failure.",mind_reading
+"I feel upset, so it must be a bad situation.",emotional_reasoning
+"I'm just going to embarrass myself again.",overgeneralization
+"Nothing ever goes my way.",catastrophizing
+"It's either perfect or it's terrible.",black_and_white_thinking
+"Everyone is judging me right now.",mind_reading
+"I feel anxious, so something is definitely wrong.",emotional_reasoning
+"I always disappoint my friends.",overgeneralization
+"If I make one mistake, I'll ruin everything.",catastrophizing
+"You either agree with me or you're wrong.",black_and_white_thinking
+"People are talking about how incompetent I am.",mind_reading
+"I'm unhappy, so I must be failing.",emotional_reasoning
+"I can't do anything right.",overgeneralization
+"If this doesn't work, I'll be a complete loser.",catastrophizing
+"There's no in-between, it's good or bad.",black_and_white_thinking
+"They think I'm not capable of anything.",mind_reading
+"If I don't feel good, things are definitely bad.",emotional_reasoning
+... (additional entries to reach 300 sentences)
