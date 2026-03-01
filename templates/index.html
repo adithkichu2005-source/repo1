@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cognitive Bias Predictor</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 60px auto; padding: 0 20px; background: #f7f8fc; color: #333; }
+    h1 { color: #4a4e8c; }
+    textarea { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; resize: vertical; }
+    button { margin-top: 10px; padding: 10px 24px; background: #4a4e8c; color: #fff; border: none; border-radius: 6px; font-size: 1rem; cursor: pointer; }
+    button:hover { background: #3a3e7c; }
+    .error { color: #c0392b; margin-bottom: 12px; }
+    .api-info { margin-top: 40px; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 20px; }
+    code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; font-size: 0.9rem; }
+    pre { background: #f0f0f0; padding: 12px; border-radius: 6px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>🧠 Cognitive Bias Predictor</h1>
+  <p>Enter a sentence to identify its underlying cognitive bias.</p>
+
+  {% if error %}
+  <p class="error">{{ error }}</p>
+  {% endif %}
+
+  <form method="POST" action="/predict">
+    <textarea name="text" rows="4" placeholder="e.g. I always mess everything up!" required>{{ request.form.get('text', '') }}</textarea>
+    <br />
+    <button type="submit">Predict Bias</button>
+  </form>
+
+  <div class="api-info">
+    <h2>API Usage</h2>
+    <p>Send a <code>POST</code> request to <code>/api/predict</code> with a JSON body.</p>
+    <h3>Single prediction</h3>
+    <pre>POST /api/predict
+Content-Type: application/json
+
+{ "text": "I always mess everything up!" }</pre>
+    <h3>Batch prediction</h3>
+    <pre>POST /api/predict
+Content-Type: application/json
+
+{ "texts": ["I always fail.", "Everyone hates me."] }</pre>
+  </div>
+</body>
+</html>

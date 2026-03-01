@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prediction Result – Cognitive Bias Predictor</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 60px auto; padding: 0 20px; background: #f7f8fc; color: #333; }
+    h1 { color: #4a4e8c; }
+    .card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 24px; margin-top: 20px; }
+    .label { font-weight: bold; color: #555; }
+    .bias { font-size: 1.4rem; color: #4a4e8c; text-transform: capitalize; }
+    .confidence { font-size: 1rem; color: #27ae60; }
+    .bar-wrap { background: #e0e0e0; border-radius: 6px; height: 14px; margin-top: 6px; }
+    .bar { background: #4a4e8c; border-radius: 6px; height: 14px; }
+    a { display: inline-block; margin-top: 24px; color: #4a4e8c; text-decoration: none; font-weight: bold; }
+    a:hover { text-decoration: underline; }
+    blockquote { border-left: 4px solid #4a4e8c; margin: 0; padding: 6px 16px; color: #555; font-style: italic; }
+  </style>
+</head>
+<body>
+  <h1>🧠 Prediction Result</h1>
+
+  <div class="card">
+    <p class="label">Input text:</p>
+    <blockquote>{{ text }}</blockquote>
+
+    <p class="label" style="margin-top:20px;">Predicted cognitive bias:</p>
+    <p class="bias">{{ bias.replace('_', ' ') }}</p>
+
+    <p class="label" style="margin-top:16px;">Confidence: <span class="confidence">{{ (confidence * 100) | round(1) }}%</span></p>
+    <div class="bar-wrap">
+      <div class="bar" style="width: {{ (confidence * 100) | round(1) }}%;"></div>
+    </div>
+  </div>
+
+  <a href="/">← Try another sentence</a>
+</body>
+</html>
